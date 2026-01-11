@@ -303,4 +303,3 @@ curl -X POST "https://seu-host/accounts/1234/transactions" \
 
 ---
 
-Se desejar, copie este README e ajuste os exemplos conforme `app/schemas.py` (para tipos/validações exatas) antes de publicar.
